@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:pix_gallery/repository/model/model.dart';
 import 'package:pix_gallery/repository/repository.dart';
 
 part 'home_event.dart';

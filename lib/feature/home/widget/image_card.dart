@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:pix_gallery/repository/model/image_model.dart';
+import 'package:pix_gallery/repository/repository.dart';
 
 /// Виджет карточки изображения.
 ///

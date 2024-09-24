@@ -1,4 +1,4 @@
-import 'package:pix_gallery/repository/model/image_model.dart';
+import 'package:pix_gallery/repository/repository.dart';
 
 /// Абстрактный класс для репозиторий изображений.
 ///
