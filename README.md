@@ -1,3 +1,5 @@
 # pix_gallery
 
-Создайте const в lib и укажите apiKey
+// lib/const/const.dart
+
+const String apiKey = 'ваш_api_key'; // Замените на ваш реальный API ключ
